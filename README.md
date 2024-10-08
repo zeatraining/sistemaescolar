@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -231,3 +232,7 @@ vendor/bin/codecept run functional,unit --coverage --coverage-html --coverage-xm
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+=======
+# sistemaescolar
+repositorio para la elaboración de un sistema escolar
+>>>>>>> 9e7c6778cd5a290673bc34a1de8ab98b1129cb34
