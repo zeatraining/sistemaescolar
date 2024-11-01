@@ -52,6 +52,11 @@ use yii\bootstrap4\Html;
                         ['/tuestatu/index'],
                         ['class' => 'collapse-item']
                     ); ?>
+                    <?= Html::a(
+                        'Categoria',
+                        ['/categoria/index'],
+                        ['class' => 'collapse-item']
+                    ); ?>
                    
                
                 
